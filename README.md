@@ -1,2 +1,7 @@
-# demo-syh-negocios-inmobiliarios
-Demo web para SYH NEGOCIOS INMOBILIARIOS — diseñada por eterlab.
+# SYH NEGOCIOS INMOBILIARIOS
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
